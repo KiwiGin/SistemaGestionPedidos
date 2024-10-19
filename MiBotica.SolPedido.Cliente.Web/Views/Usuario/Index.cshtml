@@ -1,0 +1,54 @@
+﻿@model IEnumerable<MiBotica.SolPedido.Entidades.Core.Usuario>
+
+@{
+    ViewBag.Title = "Lista de Usuarios";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h3 class="text-primary">Lista de Usuarios</h3>
+        <div class="d-flex">
+                @*<input type="text" name="table_search" class="form-control me-2" placeholder="Buscar">
+                <button type="submit" class="btn btn-outline-primary me-2">
+                    <i class="fa fa-search"></i>
+                </button>*@
+            <a href="@Url.Action("Create", "Usuario")" class="btn btn-primary">
+                <i class="fa fa-plus"></i> Agregar Usuario
+            </a>
+        </div>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-hover table-striped align-middle">
+            <thead class="table-primary">
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.IdUsuario)</th>
+                    <th>@Html.DisplayNameFor(model => model.CodUsuario)</th>
+                    <th>@Html.DisplayNameFor(model => model.Nombres)</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.IdUsuario)</td>
+                        <td>@Html.DisplayFor(modelItem => item.CodUsuario)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Nombres)</td>
+                        <td>
+                            <a href="@Url.Action("Edit", new { id = item.IdUsuario })" class="btn btn-warning btn-sm">
+                                <i class="fa fa-pencil"></i> Editar
+                            </a>
+                            <a href="@Url.Action("Details", new { id = item.IdUsuario })" class="btn btn-info btn-sm">
+                                <i class="fa fa-info-circle"></i> Detalles
+                            </a>
+                            <a href="@Url.Action("Delete", new { id = item.IdUsuario })" class="btn btn-danger btn-sm">
+                                <i class="fa fa-trash"></i> Borrar
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

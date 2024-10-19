@@ -1,0 +1,50 @@
+﻿@model MiBotica.SolPedido.Entidades.Core.Usuario
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalles</h2>
+
+<div>
+    <h4>Usuario</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdUsuario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdUsuario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CodUsuario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CodUsuario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombres)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombres)
+        </dd>
+
+        @*<dt>
+            @Html.DisplayNameFor(model => model.ClaveTexto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ClaveTexto)
+        </dd>*@
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.IdUsuario }) |
+    @Html.ActionLink("Regresar", "Index")
+</p>
