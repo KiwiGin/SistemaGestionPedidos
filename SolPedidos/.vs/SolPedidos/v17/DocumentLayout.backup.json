@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\SolPedidos\\",
+  "WorkspaceRootPath": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\SolPedidos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{484DB12E-A8C9-4D0E-A3D5-A25DAF94EA4F}|..\\MiBotica.SolPedido.AccesoDatos\\MiBotica.SolPedido.AccesoDatos.csproj|c:\\users\\kiwig\\source\\repos\\proyectoclase\\mibotica.solpedido.accesodatos\\core\\usuarioda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6A6D88F-D76F-4EB4-AEB4-928617CB4E3D}|..\\MiBotica.SolPedido.Cliente.Web\\MiBotica.SolPedido.Cliente.Web.csproj|c:\\users\\kiwig\\source\\repos\\kiwigin\\sistemagestionpedidos\\mibotica.solpedido.cliente.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFB47E85-0DBD-4F6F-9C18-7E5469F4DA96}|..\\MiBotica.SolPedido.Entidades\\MiBotica.SolPedido.Entidades.csproj|c:\\users\\kiwig\\source\\repos\\proyectoclase\\mibotica.solpedido.entidades\\core\\opcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2205C9F6-B318-4DA7-B2D8-5C5E059551AC}|..\\ApiUsuario\\ApiUsuario.csproj|c:\\users\\kiwig\\source\\repos\\kiwigin\\sistemagestionpedidos\\apiusuario\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A6D88F-D76F-4EB4-AEB4-928617CB4E3D}|..\\MiBotica.SolPedido.Cliente.Web\\MiBotica.SolPedido.Cliente.Web.csproj|c:\\users\\kiwig\\source\\repos\\proyectoclase\\mibotica.solpedido.cliente.web\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A6A6D88F-D76F-4EB4-AEB4-928617CB4E3D}|..\\MiBotica.SolPedido.Cliente.Web\\MiBotica.SolPedido.Cliente.Web.csproj|c:\\users\\kiwig\\source\\repos\\kiwigin\\sistemagestionpedidos\\mibotica.solpedido.cliente.web\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A6D88F-D76F-4EB4-AEB4-928617CB4E3D}|..\\MiBotica.SolPedido.Cliente.Web\\MiBotica.SolPedido.Cliente.Web.csproj|c:\\users\\kiwig\\source\\repos\\proyectoclase\\mibotica.solpedido.cliente.web\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{31626718-EBAA-43C3-AD22-93EB7412B301}|..\\MiBotica.SolPedido.LogicaNegocio\\MiBotica.SolPedido.LogicaNegocio.csproj|c:\\users\\kiwig\\source\\repos\\kiwigin\\sistemagestionpedidos\\mibotica.solpedido.logicanegocio\\core\\clientesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A6D88F-D76F-4EB4-AEB4-928617CB4E3D}|..\\MiBotica.SolPedido.Cliente.Web\\MiBotica.SolPedido.Cliente.Web.csproj|c:\\users\\kiwig\\source\\repos\\proyectoclase\\mibotica.solpedido.cliente.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31626718-EBAA-43C3-AD22-93EB7412B301}|..\\MiBotica.SolPedido.LogicaNegocio\\MiBotica.SolPedido.LogicaNegocio.csproj|c:\\users\\kiwig\\source\\repos\\kiwigin\\sistemagestionpedidos\\mibotica.solpedido.logicanegocio\\core\\pedidoln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A6D88F-D76F-4EB4-AEB4-928617CB4E3D}|..\\MiBotica.SolPedido.Cliente.Web\\MiBotica.SolPedido.Cliente.Web.csproj|c:\\users\\kiwig\\source\\repos\\proyectoclase\\mibotica.solpedido.cliente.web\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{484DB12E-A8C9-4D0E-A3D5-A25DAF94EA4F}|..\\MiBotica.SolPedido.AccesoDatos\\MiBotica.SolPedido.AccesoDatos.csproj|c:\\users\\kiwig\\source\\repos\\kiwigin\\sistemagestionpedidos\\mibotica.solpedido.accesodatos\\core\\pedidoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFB47E85-0DBD-4F6F-9C18-7E5469F4DA96}|..\\MiBotica.SolPedido.Entidades\\MiBotica.SolPedido.Entidades.csproj|c:\\users\\kiwig\\source\\repos\\proyectoclase\\mibotica.solpedido.entidades\\core\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{484DB12E-A8C9-4D0E-A3D5-A25DAF94EA4F}|..\\MiBotica.SolPedido.AccesoDatos\\MiBotica.SolPedido.AccesoDatos.csproj|c:\\users\\kiwig\\source\\repos\\kiwigin\\sistemagestionpedidos\\mibotica.solpedido.accesodatos\\core\\clientesda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A6D88F-D76F-4EB4-AEB4-928617CB4E3D}|..\\MiBotica.SolPedido.Cliente.Web\\MiBotica.SolPedido.Cliente.Web.csproj|c:\\users\\kiwig\\source\\repos\\proyectoclase\\mibotica.solpedido.cliente.web\\views\\pedido\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A6A6D88F-D76F-4EB4-AEB4-928617CB4E3D}|..\\MiBotica.SolPedido.Cliente.Web\\MiBotica.SolPedido.Cliente.Web.csproj|c:\\users\\kiwig\\source\\repos\\kiwigin\\sistemagestionpedidos\\mibotica.solpedido.cliente.web\\views\\pedido\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A6D88F-D76F-4EB4-AEB4-928617CB4E3D}|..\\MiBotica.SolPedido.Cliente.Web\\MiBotica.SolPedido.Cliente.Web.csproj|c:\\users\\kiwig\\source\\repos\\proyectoclase\\mibotica.solpedido.cliente.web\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A6A6D88F-D76F-4EB4-AEB4-928617CB4E3D}|..\\MiBotica.SolPedido.Cliente.Web\\MiBotica.SolPedido.Cliente.Web.csproj|c:\\users\\kiwig\\source\\repos\\kiwigin\\sistemagestionpedidos\\mibotica.solpedido.cliente.web\\views\\pedido\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{484DB12E-A8C9-4D0E-A3D5-A25DAF94EA4F}|..\\MiBotica.SolPedido.AccesoDatos\\MiBotica.SolPedido.AccesoDatos.csproj|c:\\users\\kiwig\\source\\repos\\proyectoclase\\mibotica.solpedido.accesodatos\\core\\pedidoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6A6D88F-D76F-4EB4-AEB4-928617CB4E3D}|..\\MiBotica.SolPedido.Cliente.Web\\MiBotica.SolPedido.Cliente.Web.csproj|c:\\users\\kiwig\\source\\repos\\kiwigin\\sistemagestionpedidos\\mibotica.solpedido.cliente.web\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFB47E85-0DBD-4F6F-9C18-7E5469F4DA96}|..\\MiBotica.SolPedido.Entidades\\MiBotica.SolPedido.Entidades.csproj|c:\\users\\kiwig\\source\\repos\\proyectoclase\\mibotica.solpedido.entidades\\core\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6A6D88F-D76F-4EB4-AEB4-928617CB4E3D}|..\\MiBotica.SolPedido.Cliente.Web\\MiBotica.SolPedido.Cliente.Web.csproj|c:\\users\\kiwig\\source\\repos\\kiwigin\\sistemagestionpedidos\\mibotica.solpedido.cliente.web\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A6D88F-D76F-4EB4-AEB4-928617CB4E3D}|..\\MiBotica.SolPedido.Cliente.Web\\MiBotica.SolPedido.Cliente.Web.csproj|c:\\users\\kiwig\\source\\repos\\proyectoclase\\mibotica.solpedido.cliente.web\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2205C9F6-B318-4DA7-B2D8-5C5E059551AC}|..\\ApiUsuario\\ApiUsuario.csproj|c:\\users\\kiwig\\source\\repos\\kiwigin\\sistemagestionpedidos\\apiusuario\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,156 +46,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.Cliente.Web\\Web.config",
+              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Cliente.Web\\Web.config",
+              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.Cliente.Web\\Web.config",
+              "RelativeToolTip": "..\\MiBotica.SolPedido.Cliente.Web\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-26T15:30:42.132Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioDA.cs",
-              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.AccesoDatos\\Core\\UsuarioDA.cs",
-              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.AccesoDatos\\Core\\UsuarioDA.cs",
-              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.AccesoDatos\\Core\\UsuarioDA.cs",
-              "RelativeToolTip": "..\\MiBotica.SolPedido.AccesoDatos\\Core\\UsuarioDA.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwEgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.Cliente.Web\\Views\\Pedido\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Cliente.Web\\Views\\Pedido\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.Cliente.Web\\Views\\Pedido\\Create.cshtml",
+              "RelativeToolTip": "..\\MiBotica.SolPedido.Cliente.Web\\Views\\Pedido\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T15:17:57.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.Cliente.Web\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Cliente.Web\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.Cliente.Web\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "..\\MiBotica.SolPedido.Cliente.Web\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T08:11:19.332Z",
+              "WhenOpened": "2024-10-26T14:28:37.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\ApiUsuario\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "..\\ApiUsuario\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\ApiUsuario\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "..\\ApiUsuario\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:23:21.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Opcion.cs",
-              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Entidades\\Core\\Opcion.cs",
-              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Entidades\\Core\\Opcion.cs",
-              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Entidades\\Core\\Opcion.cs",
-              "RelativeToolTip": "..\\MiBotica.SolPedido.Entidades\\Core\\Opcion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\ApiUsuario\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "..\\ApiUsuario\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\ApiUsuario\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "..\\ApiUsuario\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T08:08:55.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_LayoutLogin.cshtml",
-              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Cliente.Web\\Views\\Shared\\_LayoutLogin.cshtml",
-              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Cliente.Web\\Views\\Shared\\_LayoutLogin.cshtml",
-              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Cliente.Web\\Views\\Shared\\_LayoutLogin.cshtml",
-              "RelativeToolTip": "..\\MiBotica.SolPedido.Cliente.Web\\Views\\Shared\\_LayoutLogin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T07:39:41.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Cliente.Web\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Cliente.Web\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Cliente.Web\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "..\\MiBotica.SolPedido.Cliente.Web\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T07:39:30.229Z"
+              "WhenOpened": "2024-10-26T14:23:32.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Cliente.Web\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Cliente.Web\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Cliente.Web\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "..\\MiBotica.SolPedido.Cliente.Web\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "PedidoLN.cs",
+              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.LogicaNegocio\\Core\\PedidoLN.cs",
+              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.LogicaNegocio\\Core\\PedidoLN.cs",
+              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.LogicaNegocio\\Core\\PedidoLN.cs",
+              "RelativeToolTip": "..\\MiBotica.SolPedido.LogicaNegocio\\Core\\PedidoLN.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwEMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T07:38:40.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Entidades\\Core\\Usuario.cs",
-              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Entidades\\Core\\Usuario.cs",
-              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Entidades\\Core\\Usuario.cs",
-              "RelativeToolTip": "..\\MiBotica.SolPedido.Entidades\\Core\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T07:36:03.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Cliente.Web\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Cliente.Web\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Cliente.Web\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "..\\MiBotica.SolPedido.Cliente.Web\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T07:35:56.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PedidoDA.cs",
-              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.AccesoDatos\\Core\\PedidoDA.cs",
-              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.AccesoDatos\\Core\\PedidoDA.cs",
-              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.AccesoDatos\\Core\\PedidoDA.cs",
-              "RelativeToolTip": "..\\MiBotica.SolPedido.AccesoDatos\\Core\\PedidoDA.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T07:10:53.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Entidades\\Core\\Pedido.cs",
-              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Entidades\\Core\\Pedido.cs",
-              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Entidades\\Core\\Pedido.cs",
-              "RelativeToolTip": "..\\MiBotica.SolPedido.Entidades\\Core\\Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T07:10:21.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Cliente.Web\\Views\\Clientes\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Cliente.Web\\Views\\Clientes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Cliente.Web\\Views\\Clientes\\Index.cshtml",
-              "RelativeToolTip": "..\\MiBotica.SolPedido.Cliente.Web\\Views\\Clientes\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T06:54:34.004Z"
+              "WhenOpened": "2024-10-26T14:20:31.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Cliente.Web\\Views\\Pedido\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.Cliente.Web\\Views\\Pedido\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Cliente.Web\\Views\\Pedido\\Index.cshtml",
-              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Cliente.Web\\Views\\Pedido\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.Cliente.Web\\Views\\Pedido\\Index.cshtml",
               "RelativeToolTip": "..\\MiBotica.SolPedido.Cliente.Web\\Views\\Pedido\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T06:54:23.399Z"
+              "WhenOpened": "2024-10-26T14:47:34.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Cliente.Web\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Cliente.Web\\Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\ProyectoClase\\MiBotica.SolPedido.Cliente.Web\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "..\\MiBotica.SolPedido.Cliente.Web\\Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ClientesDA.cs",
+              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.AccesoDatos\\Core\\ClientesDA.cs",
+              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.AccesoDatos\\Core\\ClientesDA.cs",
+              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.AccesoDatos\\Core\\ClientesDA.cs",
+              "RelativeToolTip": "..\\MiBotica.SolPedido.AccesoDatos\\Core\\ClientesDA.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA5wCwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T06:49:28.065Z"
+              "WhenOpened": "2024-10-26T15:03:34.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesLN.cs",
+              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.LogicaNegocio\\Core\\ClientesLN.cs",
+              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.LogicaNegocio\\Core\\ClientesLN.cs",
+              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.LogicaNegocio\\Core\\ClientesLN.cs",
+              "RelativeToolTip": "..\\MiBotica.SolPedido.LogicaNegocio\\Core\\ClientesLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:20:33.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.Cliente.Web\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Cliente.Web\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.Cliente.Web\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "..\\MiBotica.SolPedido.Cliente.Web\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAmwJgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:28:36.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoDA.cs",
+              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.AccesoDatos\\Core\\PedidoDA.cs",
+              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.AccesoDatos\\Core\\PedidoDA.cs",
+              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.AccesoDatos\\Core\\PedidoDA.cs",
+              "RelativeToolTip": "..\\MiBotica.SolPedido.AccesoDatos\\Core\\PedidoDA.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:04:46.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.Cliente.Web\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\MiBotica.SolPedido.Cliente.Web\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KiwiG\\source\\repos\\KiwiGin\\SistemaGestionPedidos\\MiBotica.SolPedido.Cliente.Web\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "..\\MiBotica.SolPedido.Cliente.Web\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T14:49:03.405Z",
+              "EditorCaption": ""
             }
           ]
         }

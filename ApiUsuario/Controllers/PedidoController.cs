@@ -16,6 +16,81 @@ namespace ApiUsuario.Controllers
             return _pedidosLN.ListaPedidos();
         }
 
+        // GET: api/Cliente/5
+        public IHttpActionResult Get(string id)
+        {
+            var pedidos = _pedidosLN.BuscarPedidoPorId(id);
+            if (pedidos == null)
+            {
+                return NotFound();
+            }
+            return Ok(pedidos);
+        }
+
+        // POST: api/Cliente
+        public IHttpActionResult Post([FromBody] Pedido value)
+        {
+            var pedidoExistente = _pedidosLN.BuscarPedidoPorId(value.CodPedido);
+
+            if (pedidoExistente != null)
+            {
+                return BadRequest("Ya existe un pedido con el mismo código.");
+            }
+
+            var resultado = _pedidosLN.InsertarPedido(value);
+
+            if (resultado)
+            {
+                return Ok("Pedido agregado correctamente.");
+            }
+
+            return InternalServerError();
+        }
+
+        // PUT: api/Cliente/5
+        public IHttpActionResult Put(string id, [FromBody] Pedido value)
+        {
+            var pedidoExistente = _pedidosLN.BuscarPedidoPorId(id);
+
+            if (pedidoExistente == null)
+            {
+                return NotFound();
+            }
+            pedidoExistente.CodPedido = value.CodPedido;
+            pedidoExistente.NombreCompleto = value.NombreCompleto;
+            pedidoExistente.Fecha = value.Fecha;
+            pedidoExistente.Estado = value.Estado;
+
+            var resultado = _pedidosLN.ModificarPedido(pedidoExistente);
+
+            if (resultado)
+            {
+                return Ok("Pedido actualizado correctamente.");
+            }
+
+            return InternalServerError();
+        }
+
+        // DELETE: api/Cliente/5
+        public IHttpActionResult Delete(string id)
+        {
+            var pedidoExistente = _pedidosLN.BuscarPedidoPorId(id);
+
+            if (pedidoExistente == null)
+            {
+                return NotFound();
+            }
+
+            var resultado = _pedidosLN.EliminarPedido(id);
+
+            if (resultado)
+            {
+                return Ok("Pedido eliminado correctamente.");
+            }
+
+            return InternalServerError();
+        }
+
         //// GET: Pedido/Details/5
         //public ActionResult Details(int id)
         //{

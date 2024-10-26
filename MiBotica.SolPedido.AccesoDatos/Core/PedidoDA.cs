@@ -66,5 +66,82 @@ namespace MiBotica.SolPedido.AccesoDatos.Core
             return listaEntidad;
 
         }
+        // Buscar pedido por ID
+        public Pedido BuscarPedidoPorId(string codPedido)
+        {
+            Pedido pedido = null;
+            using (SqlConnection conexion = new SqlConnection(ConfigurationManager.ConnectionStrings[ConfigurationManager.AppSettings["cnnSql"]].ConnectionString))
+            {
+                using (SqlCommand comando = new SqlCommand("paBuscarPedido", conexion))
+                {
+                    comando.CommandType = CommandType.StoredProcedure;
+                    comando.Parameters.AddWithValue("@CodPedido", codPedido);
+                    conexion.Open();
+                    SqlDataReader reader = comando.ExecuteReader();
+                    if (reader.Read())
+                    {
+                        pedido = LlenarEntidad(reader);
+                    }
+                }
+                conexion.Close();
+            }
+            return pedido;
+        }
+
+        // Insertar nuevo pedido
+        public bool InsertarPedido(Pedido pedido)
+        {
+  
+            using (SqlConnection conexion = new SqlConnection(ConfigurationManager.ConnectionStrings[ConfigurationManager.AppSettings["cnnSql"]].ConnectionString))
+            {
+                using (SqlCommand comando = new SqlCommand("paInsertarPedido", conexion))
+                {
+                    comando.CommandType = CommandType.StoredProcedure;
+                    comando.Parameters.AddWithValue("@CodPedido", pedido.CodPedido);
+                    comando.Parameters.AddWithValue("@NombreCompleto", pedido.NombreCompleto);
+                    comando.Parameters.AddWithValue("@Fecha", pedido.Fecha);
+                    comando.Parameters.AddWithValue("@Estado", pedido.Estado);
+                    conexion.Open();
+                    int filasAfectadas = comando.ExecuteNonQuery();
+                    return filasAfectadas > 0;
+                }
+                
+            }
+        }
+
+        // Modificar pedido
+        public bool ModificarPedido(Pedido pedido)
+        {
+            using (SqlConnection conexion = new SqlConnection(ConfigurationManager.ConnectionStrings[ConfigurationManager.AppSettings["cnnSql"]].ConnectionString))
+            {
+                using (SqlCommand comando = new SqlCommand("paModificarPedido", conexion))
+                {
+                    comando.CommandType = CommandType.StoredProcedure;
+                    comando.Parameters.AddWithValue("@CodPedido", pedido.CodPedido);
+                    comando.Parameters.AddWithValue("@NombreCompleto", pedido.NombreCompleto);
+                    comando.Parameters.AddWithValue("@Fecha", pedido.Fecha);
+                    comando.Parameters.AddWithValue("@Estado", pedido.Estado);
+                    conexion.Open();
+                    int filasAfectadas = comando.ExecuteNonQuery();
+                    return filasAfectadas > 0;
+                }
+            }
+        }
+
+        // Eliminar pedido
+        public bool EliminarPedido(string codPedido)
+        {
+            using (SqlConnection conexion = new SqlConnection(ConfigurationManager.ConnectionStrings[ConfigurationManager.AppSettings["cnnSql"]].ConnectionString))
+            {
+                using (SqlCommand comando = new SqlCommand("paBorrarPedido", conexion))
+                {
+                    comando.CommandType = CommandType.StoredProcedure;
+                    comando.Parameters.AddWithValue("@CodPedido", codPedido);
+                    conexion.Open();
+                    int filasAfectadas = comando.ExecuteNonQuery();
+                    return filasAfectadas > 0;
+                }
+            }
+        }
     }
 }
